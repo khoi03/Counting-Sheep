@@ -1,2 +1,2 @@
 # Counting-Sheeps
-Counting Sheeps without Sleep. This project utilizing YOLO to count and segment sheeps 
+Counting Sheeps without Sleeping. This project utilizing YOLO and several image processing techniques to count and segment sheeps.
