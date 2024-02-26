@@ -1,5 +1,5 @@
 # Counting-Sheep
-Counting Sheep without Sleeping. This project utilizing YOLO and several image processing techniques to count and segment sheep.
+Counting Sheep without Sleep. This project utilizing YOLO and several image processing techniques to count and segment sheep.
 
 ## How to run this repository
 I recommend creating an anaconda environment:
